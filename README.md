@@ -563,5 +563,3 @@ export default plugin
 Restart the server. Your plugin output will appear in every `/reflect` response under `plugin_outputs["my-plugin"]`. Plugins that throw are automatically excluded from output — they never crash the server.
 
 ---
-
-*Built on the architecture of Kuromi — now SEREN.*
